@@ -42,7 +42,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url("./images/vegBg.jpg");
+    background-image: url("./image/vegBg.jpg");
     background-size: cover;
     opacity: 0.4;
     z-index: -1;
